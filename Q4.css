@@ -1,0 +1,14 @@
+/* Apply styles to all elements */
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Set background color for the page */
+body {
+    background-color: lightyellow;
+}
+
+/* Change font color for all paragraphs */
+p {
+    color: blue;
+}
