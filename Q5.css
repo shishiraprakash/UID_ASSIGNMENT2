@@ -1,0 +1,29 @@
+/* Style for the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Style for table headers */
+th {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Style for table cells */
+td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Alternate row colors */
+tr:nth-child(odd) {
+    background-color: gray;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(142, 217, 99);
+}

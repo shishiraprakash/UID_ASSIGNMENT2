@@ -1,0 +1,16 @@
+/* Button styling */
+.custom-button {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px; /* Rounded corners */
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+/* Hover effect */
+.custom-button:hover {
+    background-color: darkorange;
+}
